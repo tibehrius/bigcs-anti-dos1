@@ -1,2 +1,0 @@
-# bigcs-configs
-Configurações BIGCS
